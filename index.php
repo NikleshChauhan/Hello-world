@@ -12,7 +12,7 @@ class ClassName extends AnotherClass
 	}
 	public function index($value='')
 	{
-		echo "hello world";
+		$variabl = "new Branch";
 	}
 }
 
