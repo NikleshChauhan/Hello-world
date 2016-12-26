@@ -14,6 +14,11 @@ class ClassName extends AnotherClass
 	{
 		$variabl = "new Branch";
 	}
+
+	public function patch($value='')
+	{
+		echo "patch test";
+	}
 }
 
 ?>
