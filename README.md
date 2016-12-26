@@ -1,2 +1,1 @@
-# Hello-world
-Learing
+Some Redme content
