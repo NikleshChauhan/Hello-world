@@ -3,7 +3,7 @@
 /**
 * 
 */
-class ClassName extends AnotherClass
+class ClassName extends CI_Controller
 {
 	
 	function __construct(argument)
